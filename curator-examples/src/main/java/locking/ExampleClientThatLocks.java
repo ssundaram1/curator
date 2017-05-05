@@ -47,15 +47,15 @@ public class ExampleClientThatLocks
         try
         {
             System.out.println(clientName + " has the lock"+" for path: "+lockPath);
-            if(client.checkExists().forPath(ZKPaths.makePath(lockPath, "Success")) != null) {
-                    List<String > children =  client.getChildren().forPath(lockPath);
-                    System.out.println("path has sucess node already, releasing lock: "+clientName+" for path: "+lockPath);
-                    //ZKPaths.deleteChildren()..deleteChildren(client.getZookeeperClient().getZooKeeper(),lockPath,true);
-                    //release not needed here
-                    lock.release();
-
-                return;
-            }
+//            if(client.checkExists().forPath(ZKPaths.makePath(lockPath, "Success")) != null) {
+//                    List<String > children =  client.getChildren().forPath(lockPath);
+//                    System.out.println("path has sucess node already, releasing lock: "+clientName+" for path: "+lockPath);
+//                    //ZKPaths.deleteChildren()..deleteChildren(client.getZookeeperClient().getZooKeeper(),lockPath,true);
+//                    //release not needed here
+//                    lock.release();
+//
+//                return;
+//            }
 
             System.out.println("We won lets do this!!");
 
@@ -63,17 +63,21 @@ public class ExampleClientThatLocks
 //                System.out.println(" Uh oh Client about to DIE");
 //                client.close();
 //            }
-            //ZKPaths.deleteChildren(client.getZookeeperClient().getZooKeeper(),lockPath,true);
+            //ZKPaths.deleteChildren(client.getZookeeperClient().getZooKeeper(),lockPath,false);
             //Thread.sleep(2000);
-            //client.delete().guaranteed().forPath(lockPath);
 
-            client.create().forPath(ZKPaths.makePath(lockPath,"Success"));
+
+            //client.create().forPath(ZKPaths.makePath(lockPath,"Success"));
             //resource.use();
         }
         finally
         {
-            System.out.println(clientName + " releasing the lock");
+
+            //ZKPaths.deleteChildren(client.getZookeeperClient().getZooKeeper(),lockPath,false);
+            client.delete().guaranteed().deletingChildrenIfNeeded().forPath(lockPath);
+            System.out.println("AFTER DELETE Children for path and client: "+lockPath+" "+clientName);
             lock.release(); // always release the lock in a finally block
+            System.out.println(clientName + " releasing the lock");
         }
     }
 }

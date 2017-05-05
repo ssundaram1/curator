@@ -53,9 +53,13 @@ public class LockingExample
        // final TestingServer         server = new TestingServer();
         CuratorFramework        mainClient = CuratorFrameworkFactory.newClient("localhost", new ExponentialBackoffRetry(1000, 3));
         mainClient.start();
-        //CrudExamples.delete(mainClient,PATH);
+        if(mainClient.checkExists().forPath(PATH) != null){
+            //CrudExamples.delete(mainClient,PATH);
+            ZKPaths.deleteChildren(mainClient.getZookeeperClient().getZooKeeper(),PATH,true);
+        }
+
         mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH,null);
-        for(int i =0; i<10;i++){
+        for(int i =0; i<5;i++){
             mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH+"/org"+i,null);
         }
 
@@ -78,19 +82,30 @@ public class LockingExample
                         try
                         {
                             client.start();
-                            Thread.sleep(2000);
+                            client.blockUntilConnected();
+                           // Thread.sleep(2000);
                             for(String path: children) {
-                                String childPath = ZKPaths.makePath(PATH,path);
-                                ExampleClientThatLocks example = new ExampleClientThatLocks(client,childPath, resource, "Client " + index);
+                                try{
+                                    String childPath = ZKPaths.makePath(PATH,path);
+                                    if(client.checkExists().forPath(childPath) == null && !client.getChildren().forPath(childPath).isEmpty()){
+                                        System.out.println(" WOrk does not exist ...its done: "+"Client " + index);
+                                        continue;
+                                    }
+                                    ExampleClientThatLocks example = new ExampleClientThatLocks(client,childPath, resource, "Client " + index);
+                                    example.doWork(0, TimeUnit.SECONDS, childPath, client);
+                                }catch(IllegalStateException e){
+                                    System.out.println(" Illegal State EXception: "+"Client " + index);
+                                }
+
                                 //for (int j = 0; j < 1; j++ )
 
                                 //{
                                 //if(client.checkExists().forPath(ZKPaths.makePath(PATH,"Success")) == null){
-                                if (client.checkExists().forPath(ZKPaths.makePath(childPath, "Success")) == null) {
-                                    example.doWork(0, TimeUnit.SECONDS, childPath, client);
-                                } else {
-                                    System.out.println("Time khoti kia re: " + "Client " + index+" for path:"+childPath);
-                                }
+//                                if (client.checkExists().forPath(ZKPaths.makePath(childPath, "Success")) == null) {
+//                                    example.doWork(0, TimeUnit.SECONDS, childPath, client);
+//                                } else {
+//                                    System.out.println("Time khoti kia re: " + "Client " + index+" for path:"+childPath);
+//                                }
                             }
 
                             //}
