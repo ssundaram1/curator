@@ -341,6 +341,7 @@ public class LockInternals
         catch ( KeeperException.NoNodeException e )
         {
             // ignore - already deleted (possibly expired session, etc.)
+            System.out.println("ignore - already deleted (possibly expired session, etc.)");
         }
     }
 

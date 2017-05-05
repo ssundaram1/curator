@@ -20,6 +20,9 @@ package locking;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.recipes.locks.InterProcessMutex;
+import org.apache.curator.utils.ZKPaths;
+
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class ExampleClientThatLocks
@@ -35,7 +38,7 @@ public class ExampleClientThatLocks
         lock = new InterProcessMutex(client, lockPath);
     }
 
-    public void     doWork(long time, TimeUnit unit) throws Exception
+    public void     doWork(long time, TimeUnit unit,String lockPath,CuratorFramework client) throws Exception
     {
         if ( !lock.acquire(time, unit) )
         {
@@ -43,8 +46,29 @@ public class ExampleClientThatLocks
         }
         try
         {
-            System.out.println(clientName + " has the lock");
-            resource.use();
+            System.out.println(clientName + " has the lock"+" for path: "+lockPath);
+            if(client.checkExists().forPath(ZKPaths.makePath(lockPath, "Success")) != null) {
+                    List<String > children =  client.getChildren().forPath(lockPath);
+                    System.out.println("path has sucess node already, releasing lock: "+clientName+" for path: "+lockPath);
+                    //ZKPaths.deleteChildren()..deleteChildren(client.getZookeeperClient().getZooKeeper(),lockPath,true);
+                    //release not needed here
+                    lock.release();
+
+                return;
+            }
+
+            System.out.println("We won lets do this!!");
+
+//            if(System.currentTimeMillis() % 2 == 0){
+//                System.out.println(" Uh oh Client about to DIE");
+//                client.close();
+//            }
+            //ZKPaths.deleteChildren(client.getZookeeperClient().getZooKeeper(),lockPath,true);
+            //Thread.sleep(2000);
+            //client.delete().guaranteed().forPath(lockPath);
+
+            client.create().forPath(ZKPaths.makePath(lockPath,"Success"));
+            //resource.use();
         }
         finally
         {

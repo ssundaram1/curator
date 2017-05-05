@@ -18,11 +18,16 @@
  */
 package locking;
 
-import org.apache.curator.utils.CloseableUtils;
+import framework.CrudExamples;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.apache.curator.retry.ExponentialBackoffRetry;
 import org.apache.curator.test.TestingServer;
+import org.apache.curator.utils.CloseableUtils;
+import org.apache.curator.utils.ZKPaths;
+import org.apache.zookeeper.CreateMode;
+
+import java.util.List;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -33,7 +38,7 @@ public class LockingExample
     private static final int        QTY = 5;
     private static final int        REPETITIONS = QTY * 10;
 
-    private static final String     PATH = "/examples/locks";
+    private static final String     PATH = "/extract";
 
     public static void main(String[] args) throws Exception
     {
@@ -42,8 +47,22 @@ public class LockingExample
         // FakeLimitedResource simulates some external resource that can only be access by one process at a time
         final FakeLimitedResource   resource = new FakeLimitedResource();
 
+
+
         ExecutorService             service = Executors.newFixedThreadPool(QTY);
-        final TestingServer         server = new TestingServer();
+       // final TestingServer         server = new TestingServer();
+        CuratorFramework        mainClient = CuratorFrameworkFactory.newClient("localhost", new ExponentialBackoffRetry(1000, 3));
+        mainClient.start();
+        //CrudExamples.delete(mainClient,PATH);
+        mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH,null);
+        for(int i =0; i<10;i++){
+            mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH+"/org"+i,null);
+        }
+
+        final List<String> children = mainClient.getChildren().forPath(PATH);
+
+
+
         try
         {
             for ( int i = 0; i < QTY; ++i )
@@ -54,16 +73,27 @@ public class LockingExample
                     @Override
                     public Void call() throws Exception
                     {
-                        CuratorFramework        client = CuratorFrameworkFactory.newClient(server.getConnectString(), new ExponentialBackoffRetry(1000, 3));
+                        CuratorFramework   client = CuratorFrameworkFactory.newClient("localhost", new ExponentialBackoffRetry(1000, 3));
+
                         try
                         {
                             client.start();
+                            Thread.sleep(2000);
+                            for(String path: children) {
+                                String childPath = ZKPaths.makePath(PATH,path);
+                                ExampleClientThatLocks example = new ExampleClientThatLocks(client,childPath, resource, "Client " + index);
+                                //for (int j = 0; j < 1; j++ )
 
-                            ExampleClientThatLocks      example = new ExampleClientThatLocks(client, PATH, resource, "Client " + index);
-                            for ( int j = 0; j < REPETITIONS; ++j )
-                            {
-                                example.doWork(10, TimeUnit.SECONDS);
+                                //{
+                                //if(client.checkExists().forPath(ZKPaths.makePath(PATH,"Success")) == null){
+                                if (client.checkExists().forPath(ZKPaths.makePath(childPath, "Success")) == null) {
+                                    example.doWork(0, TimeUnit.SECONDS, childPath, client);
+                                } else {
+                                    System.out.println("Time khoti kia re: " + "Client " + index+" for path:"+childPath);
+                                }
                             }
+
+                            //}
                         }
                         catch ( InterruptedException e )
                         {
@@ -86,10 +116,13 @@ public class LockingExample
 
             service.shutdown();
             service.awaitTermination(10, TimeUnit.MINUTES);
+
+                       System.out.println("Main client querying: "+ mainClient.getChildren().forPath("/"));
+
         }
         finally
         {
-            CloseableUtils.closeQuietly(server);
+            //CloseableUtils.closeQuietly(server);
         }
     }
 }
