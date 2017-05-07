@@ -84,6 +84,7 @@ public class LockingExample
                             client.blockUntilConnected();
                             List<String> children = client.getChildren().forPath(PATH);
                             String clientName ="Client " + index;
+                            client.delete().deletingChildrenIfNeeded()
 
                             // Thread.sleep(2000);
                             for(String path: children) {
