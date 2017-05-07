@@ -35,7 +35,7 @@ import java.util.concurrent.TimeUnit;
 
 public class LockingExample
 {
-    private static final int        QTY = 5;
+    private static final int        QTY = 10;
     private static final int        REPETITIONS = QTY * 10;
 
     private static final String     PATH = "/extract";
@@ -59,11 +59,9 @@ public class LockingExample
         }
 
         mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH,null);
-        for(int i =0; i<5;i++){
+        for(int i =0; i<10;i++){
             mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH+"/org"+i,null);
         }
-
-        final List<String> children = mainClient.getChildren().forPath(PATH);
 
 
 
@@ -83,29 +81,38 @@ public class LockingExample
                         {
                             client.start();
                             client.blockUntilConnected();
-                           // Thread.sleep(2000);
+                            List<String> children = client.getChildren().forPath(PATH);
+                            String clientName ="Client " + index;
+
+                            // Thread.sleep(2000);
                             for(String path: children) {
-                                try{
                                     String childPath = ZKPaths.makePath(PATH,path);
-                                    if(client.checkExists().forPath(childPath) == null && !client.getChildren().forPath(childPath).isEmpty()){
-                                        System.out.println(" WOrk does not exist ...its done: "+"Client " + index);
-                                        continue;
-                                    }
-                                    ExampleClientThatLocks example = new ExampleClientThatLocks(client,childPath, resource, "Client " + index);
-                                    example.doWork(0, TimeUnit.SECONDS, childPath, client);
-                                }catch(IllegalStateException e){
-                                    System.out.println(" Illegal State EXception: "+"Client " + index);
+                                    String lockNodePath = ZKPaths.makePath(childPath,"lock");
+                                    String streamPath = childPath.replace("extract","stream");
+
+//                                    if(client.checkExists().forPath(streamPath) != null){
+//                                        System.out.println(client +" stream node exists:"+streamPath);
+//                                        continue;
+//
+//                                    }
+                                //Leave this alone
+                                if(client.checkExists().forPath(lockNodePath) != null &&  !client.getChildren().forPath(lockNodePath).isEmpty()){
+                                    System.out.println(clientName +" lockNodePath node exists and has a lock node taken:"+lockNodePath);
+                                    continue;
+                                }
+                                if(client.checkExists().forPath(streamPath) != null){
+                                    System.out.println(clientName +" stream node exists:"+streamPath);
+                                    continue;
+
                                 }
 
-                                //for (int j = 0; j < 1; j++ )
 
-                                //{
-                                //if(client.checkExists().forPath(ZKPaths.makePath(PATH,"Success")) == null){
-//                                if (client.checkExists().forPath(ZKPaths.makePath(childPath, "Success")) == null) {
-//                                    example.doWork(0, TimeUnit.SECONDS, childPath, client);
-//                                } else {
-//                                    System.out.println("Time khoti kia re: " + "Client " + index+" for path:"+childPath);
-//                                }
+
+                                        ExampleClientThatLocks example = new ExampleClientThatLocks(client,childPath, resource, clientName);
+                                        example.doWork(0, TimeUnit.SECONDS, childPath, client);
+
+
+
                             }
 
                             //}

@@ -212,7 +212,7 @@ public class InterProcessMutex implements InterProcessLock, Revocable<InterProce
         return null;
     }
 
-    protected String getLockPath()
+    public String getLockPath()
     {
         LockData lockData = threadData.get(Thread.currentThread());
         return lockData != null ? lockData.lockPath : null;
