@@ -35,7 +35,7 @@ import java.util.concurrent.TimeUnit;
 
 public class LockingExample
 {
-    private static final int        QTY = 10;
+    private static final int        QTY = 2;
     private static final int        REPETITIONS = QTY * 10;
 
     private static final String     PATH = "/extract";
@@ -59,7 +59,7 @@ public class LockingExample
         }
 
         mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH,null);
-        for(int i =0; i<10;i++){
+        for(int i =0; i<1;i++){
             mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH+"/org"+i,null);
         }
 
@@ -69,6 +69,7 @@ public class LockingExample
         {
             for ( int i = 0; i < QTY; ++i )
             {
+
                 final int       index = i;
                 Callable<Void>  task = new Callable<Void>()
                 {
@@ -96,20 +97,26 @@ public class LockingExample
 //
 //                                    }
                                 //Leave this alone
-                                if(client.checkExists().forPath(lockNodePath) != null &&  !client.getChildren().forPath(lockNodePath).isEmpty()){
-                                    System.out.println(clientName +" lockNodePath node exists and has a lock node taken:"+lockNodePath);
-                                    continue;
-                                }
-                                if(client.checkExists().forPath(streamPath) != null){
-                                    System.out.println(clientName +" stream node exists:"+streamPath);
-                                    continue;
-
-                                }
+//                                if(client.checkExists().forPath(lockNodePath) != null &&  !client.getChildren().forPath(lockNodePath).isEmpty()){
+//                                    System.out.println(clientName +" lockNodePath node exists and has a lock node taken:"+lockNodePath);
+//                                    continue;
+//                                }
+//                                if(client.checkExists().forPath(streamPath) != null){
+//                                    System.out.println(clientName +" stream node exists:"+streamPath);
+//                                    continue;
+//
+//                                }
 
 
 
                                         ExampleClientThatLocks example = new ExampleClientThatLocks(client,childPath, resource, clientName);
                                         example.doWork(0, TimeUnit.SECONDS, childPath, client);
+
+                                //Thread.sleep(2000);
+                                if(index == 1){
+                                    System.out.println(clientName+" is back up");
+                                    Thread.sleep(5000);
+                                }
 
 
 
