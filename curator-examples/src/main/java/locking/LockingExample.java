@@ -18,14 +18,14 @@
  */
 package locking;
 
-import framework.CrudExamples;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;
 import org.apache.curator.retry.ExponentialBackoffRetry;
-import org.apache.curator.test.TestingServer;
+import org.apache.curator.test.KillSession;
 import org.apache.curator.utils.CloseableUtils;
 import org.apache.curator.utils.ZKPaths;
 import org.apache.zookeeper.CreateMode;
+import org.apache.zookeeper.KeeperException;
 
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -33,9 +33,11 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
+import static org.apache.zookeeper.KeeperException.CodeDeprecated.NodeExists;
+
 public class LockingExample
 {
-    private static final int        QTY = 2;
+    private static final int        QTY = 10;
     private static final int        REPETITIONS = QTY * 10;
 
     private static final String     PATH = "/extract";
@@ -59,7 +61,7 @@ public class LockingExample
         }
 
         mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH,null);
-        for(int i =0; i<1;i++){
+        for(int i =0; i<3;i++){
             mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH+"/org"+i,null);
         }
 
@@ -84,41 +86,27 @@ public class LockingExample
                             client.blockUntilConnected();
                             List<String> children = client.getChildren().forPath(PATH);
                             String clientName ="Client " + index;
-                            client.delete().deletingChildrenIfNeeded()
 
-                            // Thread.sleep(2000);
                             for(String path: children) {
                                     String childPath = ZKPaths.makePath(PATH,path);
-                                    String lockNodePath = ZKPaths.makePath(childPath,"lock");
-                                    String streamPath = childPath.replace("extract","stream");
+                                String lockPath = ZKPaths.makePath(childPath,"locked");
+                            try {
 
-//                                    if(client.checkExists().forPath(streamPath) != null){
-//                                        System.out.println(client +" stream node exists:"+streamPath);
-//                                        continue;
-//
-//                                    }
-                                //Leave this alone
-//                                if(client.checkExists().forPath(lockNodePath) != null &&  !client.getChildren().forPath(lockNodePath).isEmpty()){
-//                                    System.out.println(clientName +" lockNodePath node exists and has a lock node taken:"+lockNodePath);
-//                                    continue;
-//                                }
-//                                if(client.checkExists().forPath(streamPath) != null){
-//                                    System.out.println(clientName +" stream node exists:"+streamPath);
-//                                    continue;
-//
-//                                }
+                                if(client.checkExists().forPath(lockPath) == null){
+                                    client.create().withMode(CreateMode.EPHEMERAL).forPath(ZKPaths.makePath(childPath,"locked"));
+                                    System.out.println(clientName + " LOCKED IT :"+lockPath);
+                                    Thread.sleep(500);
+                                    System.out.println(clientName+" Killing session!!" + lockPath);
+                                    KillSession.kill(client.getZookeeperClient().getZooKeeper(), "localhost");
 
-
-
-                                        ExampleClientThatLocks example = new ExampleClientThatLocks(client,childPath, resource, clientName);
-                                        example.doWork(0, TimeUnit.SECONDS, childPath, client);
-
-                                //Thread.sleep(2000);
-                                if(index == 1){
-                                    System.out.println(clientName+" is back up");
-                                    Thread.sleep(5000);
+                                }else
+                                {
+                                    System.out.println(clientName+" Node already exists "+lockPath);
                                 }
 
+                            }catch(KeeperException.NodeExistsException e){
+                                System.out.println(clientName +" : Caught exception "+e.getMessage());
+                            }
 
 
                             }
