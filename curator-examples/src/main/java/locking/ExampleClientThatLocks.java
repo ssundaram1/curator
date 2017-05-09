@@ -23,12 +23,20 @@ import org.apache.curator.utils.ZKPaths;
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.KeeperException;
 
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
 public class ExampleClientThatLocks
 {
     private final FakeLimitedResource resource;
     private final String clientName;
+    public static Map<String,Integer> orgProvCnt = new ConcurrentHashMap<String, Integer>();
+
+
+    public static Map<String, Integer> getProvCnt(){
+        return orgProvCnt;
+    }
 
     public ExampleClientThatLocks(CuratorFramework client, String lockPath, FakeLimitedResource resource, String clientName)
     {
@@ -60,9 +68,11 @@ public class ExampleClientThatLocks
 
             String lockedPath = ZKPaths.makePath(lockPath,"locked");
             String streamPath = lockPath.replace("extract", "stream");
+        String org = lockPath.substring(lockPath.lastIndexOf("/")+1);
 
 
-            try {
+
+        try {
 
 
                 if(client.checkExists().forPath(lockedPath) == null){
@@ -75,12 +85,15 @@ public class ExampleClientThatLocks
                     }
                     client.create().withMode(CreateMode.EPHEMERAL).forPath(ZKPaths.makePath(lockPath,"locked"));
                     System.out.println(clientName + " LOCKED IT :"+lockedPath);
-                    Thread.sleep(500);
+                    orgProvCnt.put(org, orgProvCnt.containsKey(org)? (orgProvCnt.get(org)+1): 1);
+
+                    //Thread.sleep(500);
                     //System.out.println(clientName+" Killing session!!" + lockedPath);
                     //KillSession.kill(client.getZookeeperClient().getZooKeeper(), "localhost");
 
                 }else
                 {
+
                     System.out.println(clientName+" Node already exists "+lockedPath);
                     return;
                 }
@@ -97,6 +110,7 @@ public class ExampleClientThatLocks
             //finally delete o1 for extract and create stream
             client.create().creatingParentsIfNeeded().forPath(streamPath);
             client.delete().deletingChildrenIfNeeded().inBackground().forPath(lockPath);
+
 
 
 
