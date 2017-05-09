@@ -1,0 +1,830 @@
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494348993555
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494348997244
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349002247
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349007232
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349012236
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349017265
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349022250
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349027234
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349032281
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349037310
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349042296
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349047255
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349052236
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349057284
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349062243
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349067270
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349072259
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349077295
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349082232
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349087264
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349092256
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349097276
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349102263
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349107273
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349112233
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349117251
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349122325
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349127261
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349132323
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349137252
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349142189
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349147453
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349152269
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349157219
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349162261
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349167241
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349172208
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349177244
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349182187
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349187209
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349192239
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349197293
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349202265
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349207290
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349212244
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349217261
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349222310
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349227287
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349232279
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349237346
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349242179
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349247324
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349252268
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349257286
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349262256
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349267226
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349272318
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349277414
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349282309
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349287625
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494349292225
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350270041
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350273123
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350275040
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350276910
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350278873
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350280783
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350282755
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350284672
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350286602
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350288566
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350290518
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350292509
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350294500
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350296503
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350298454
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350300442
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350302440
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350304445
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350306398
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350308517
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350310484
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350312470
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350314452
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350316478
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350318435
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350320357
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350322284
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350324286
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350326262
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350328359
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350330433
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350332410
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350334343
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350336296
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350338191
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350340133
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350342095
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350344046
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350345959
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350347924
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350349856
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350351791
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350353763
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350355742
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350357770
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350359743
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350361709
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350363704
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350365729
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350367699
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350369675
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350371674
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350373613
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350375589
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350377545
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350379499
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350381524
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350383462
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350385430
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350387402
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350389341
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350391329
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350393330
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350395314
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350397342
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350399315
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350401298
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350403306
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350405293
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350407307
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350409416
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350411361
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350413313
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350415355
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350417395
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350419373
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350421370
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350423353
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350425370
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350427384
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350429408
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350431456
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350433484
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350435494
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350437564
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350439592
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350441669
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350443745
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350445807
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350447814
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350449868
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350451968
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350454036
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350456070
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350458079
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350460142
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350462164
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350464224
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350466234
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350468250
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350470317
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350472332
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350474342
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350476348
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350478284
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350480358
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350482371
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350484454
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350486451
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350488519
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350490493
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350492525
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350494560
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350496613
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350498600
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350500668
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350502650
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350504731
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350506675
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350508765
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350510804
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350512869
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350514948
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350516991
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350519021
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350521076
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350523081
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350525092
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350527136
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350529193
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350531258
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350533281
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350535352
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350537442
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350539494
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350541531
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350543557
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350545583
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350547581
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350549682
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350551720
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350553776
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350555884
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350557960
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350559987
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350562054
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350564212
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350566310
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350568346
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350570383
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350572408
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350574446
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350576503
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350578498
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350580655
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350582697
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350584771
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350586827
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350588873
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350590918
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350593023
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350595101
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350597152
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350599264
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350601270
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350603357
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350605426
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350607512
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350609575
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350611640
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350613658
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350615698
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350617864
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350619887
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350621932
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350624026
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350626102
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350628206
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350630282
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350632315
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350634391
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350636463
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350638539
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350640651
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350642750
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350644795
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350646936
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350649018
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350651107
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350653144
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350655217
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350657306
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350659355
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350661407
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350663486
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350665595
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350667685
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350669810
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350671921
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350674035
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350676155
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350678241
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350680288
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350682356
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350684425
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350686503
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350688577
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350690621
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350692703
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350694776
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350696875
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350698926
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350701007
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350703128
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350705187
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350707294
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350709366
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350711441
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350713442
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350715518
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350717607
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350719692
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350721791
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350723833
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350725944
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350728062
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350730170
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350732189
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350734293
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350736397
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350738463
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350740560
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350742601
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350744702
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350746820
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350748923
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350751033
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350753125
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350755241
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350757353
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350759470
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350761539
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350763651
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350765751
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350767879
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350770005
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350772062
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350774200
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350776227
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350778277
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350780387
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350782481
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350784872
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350786897
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350788916
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350790948
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350793017
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350795100
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350797162
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350799206
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350801244
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350803312
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350805401
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350807523
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350809565
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350811588
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350813592
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350815682
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350817714
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350819749
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350821788
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350823811
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350825853
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350827939
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350829928
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350831996
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350834074
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350836077
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350838147
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350840268
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350842279
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350844378
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350846444
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350848548
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350850618
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350852701
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350854767
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350856872
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350858889
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350860993
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350863062
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350865135
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350867250
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350869300
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350871360
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350873417
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350875504
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350877570
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350879678
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350881772
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350883850
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350885945
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350888047
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350890123
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350892190
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350894207
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350896270
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350898323
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350900430
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350902485
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350904537
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350906642
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350908728
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350910777
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350912898
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350915027
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350917117
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350919180
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350921270
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350923308
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350925408
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350927532
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350929596
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350931654
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350933675
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350935728
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350937743
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350939772
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350941825
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350945155
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350948133
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350953222
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350958893
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350963848
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350968922
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350973683
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350978660
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350983879
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350988942
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350993855
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494350998716
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351003946
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351008727
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351013895
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351018801
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351023930
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351028970
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351033998
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351038894
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351043950
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351048825
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351053985
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351059042
+ org counts are : {org8=1, org9=1, org4=1, org5=1, org6=1, org7=1, org10=1, org12=1, org11=1, org14=1, org13=1, org0=1, org16=1, org1=1, org15=1, org2=1, org18=1, org3=1, org17=1, org19=1}
+ total org count : 20 1494351063974

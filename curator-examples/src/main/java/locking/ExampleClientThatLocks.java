@@ -109,7 +109,7 @@ public class ExampleClientThatLocks
 
             //finally delete o1 for extract and create stream
             client.create().creatingParentsIfNeeded().forPath(streamPath);
-            client.delete().deletingChildrenIfNeeded().inBackground().forPath(lockPath);
+            client.delete().deletingChildrenIfNeeded().forPath(lockPath);
 
 
 
