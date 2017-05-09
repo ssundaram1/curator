@@ -28,6 +28,7 @@ import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.KeeperException;
 
 import java.util.List;
+import java.util.Timer;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -41,10 +42,19 @@ public class LockingExample
     private static final int        REPETITIONS = QTY * 10;
 
     private static final String     PATH = "/extract";
+    private static final String     PATH2 = "/stream";
 
     public static void main(String[] args) throws Exception
     {
         // all of the useful sample code is in ExampleClientThatLocks.java
+
+
+
+        Timer t = new Timer();
+       // MyTask mTask = new MyTask();
+        // This task is scheduled to run every 10 seconds
+
+        //t.scheduleAtFixedRate(mTask, 0, 10000);
 
         // FakeLimitedResource simulates some external resource that can only be access by one process at a time
         final FakeLimitedResource   resource = new FakeLimitedResource();
@@ -59,9 +69,13 @@ public class LockingExample
             //CrudExamples.delete(mainClient,PATH);
             ZKPaths.deleteChildren(mainClient.getZookeeperClient().getZooKeeper(),PATH,true);
         }
+        if(mainClient.checkExists().forPath(PATH2) != null){
+            //CrudExamples.delete(mainClient,PATH);
+            ZKPaths.deleteChildren(mainClient.getZookeeperClient().getZooKeeper(),PATH2,true);
+        }
 
         mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH,null);
-        for(int i =0; i<3;i++){
+        for(int i =0; i<5;i++){
             mainClient.create().withMode(CreateMode.PERSISTENT).forPath(PATH+"/org"+i,null);
         }
 
@@ -89,24 +103,10 @@ public class LockingExample
 
                             for(String path: children) {
                                     String childPath = ZKPaths.makePath(PATH,path);
-                                String lockPath = ZKPaths.makePath(childPath,"locked");
-                            try {
 
-                                if(client.checkExists().forPath(lockPath) == null){
-                                    client.create().withMode(CreateMode.EPHEMERAL).forPath(ZKPaths.makePath(childPath,"locked"));
-                                    System.out.println(clientName + " LOCKED IT :"+lockPath);
-                                    Thread.sleep(500);
-                                    System.out.println(clientName+" Killing session!!" + lockPath);
-                                    KillSession.kill(client.getZookeeperClient().getZooKeeper(), "localhost");
+                                ExampleClientThatLocks example = new ExampleClientThatLocks(client,childPath, resource, clientName);
+                                example.doWork(0, TimeUnit.SECONDS, childPath, client);
 
-                                }else
-                                {
-                                    System.out.println(clientName+" Node already exists "+lockPath);
-                                }
-
-                            }catch(KeeperException.NodeExistsException e){
-                                System.out.println(clientName +" : Caught exception "+e.getMessage());
-                            }
 
 
                             }
